@@ -1,0 +1,260 @@
+{
+    "children": [
+        {
+            "id": "2.1",
+            "name": "3d_texture_offset.tox",
+            "path": "\\3d_texture_offset.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.2",
+            "name": "barrel_blur_chroma.tox",
+            "path": "\\barrel_blur_chroma.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.3",
+            "name": "chroma_feedack.tox",
+            "path": "\\chroma_feedack.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.4",
+            "name": "container_presets_dict_method.tox",
+            "path": "\\container_presets_dict_method.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.5",
+            "name": "conv_wave.tox",
+            "path": "\\conv_wave.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.6",
+            "name": "delay_grid.tox",
+            "path": "\\delay_grid.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.7",
+            "name": "dirty_mask.tox",
+            "path": "\\dirty_mask.tox",
+            "type": "file"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "id": "2.8.1.1",
+                            "name": "assimp.dll",
+                            "path": "\\face_swap\\bin\\assimp.dll",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.8.1.2",
+                            "name": "fmodex64.dll",
+                            "path": "\\face_swap\\bin\\fmodex64.dll",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.8.1.3",
+                            "name": "fmodexL64.dll",
+                            "path": "\\face_swap\\bin\\fmodexL64.dll",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.8.1.4",
+                            "name": "FreeImage.dll",
+                            "path": "\\face_swap\\bin\\FreeImage.dll",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.8.1.5",
+                            "name": "freetype.dll",
+                            "path": "\\face_swap\\bin\\freetype.dll",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.8.1.6",
+                            "name": "glut32.dll",
+                            "path": "\\face_swap\\bin\\glut32.dll",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.8.1.7",
+                            "name": "libeay32.dll",
+                            "path": "\\face_swap\\bin\\libeay32.dll",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.8.1.8",
+                            "name": "OpenFrameworksTOP.dll",
+                            "path": "\\face_swap\\bin\\OpenFrameworksTOP.dll",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.8.1.9",
+                            "name": "OpenFrameworksTOP.exp",
+                            "path": "\\face_swap\\bin\\OpenFrameworksTOP.exp",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.8.1.10",
+                            "name": "OpenFrameworksTOP.lib",
+                            "path": "\\face_swap\\bin\\OpenFrameworksTOP.lib",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.8.1.11",
+                            "name": "ssleay32.dll",
+                            "path": "\\face_swap\\bin\\ssleay32.dll",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.8.1.12",
+                            "name": "Zlib.dll",
+                            "path": "\\face_swap\\bin\\Zlib.dll",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.8.1",
+                    "name": "bin",
+                    "path": "\\face_swap\\bin",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.8.2",
+                    "name": "face_swap.tox",
+                    "path": "\\face_swap\\face_swap.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.8",
+            "name": "face_swap",
+            "path": "\\face_swap",
+            "type": "directory"
+        },
+        {
+            "id": "2.9",
+            "name": "fbm.tox",
+            "path": "\\fbm.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.10",
+            "name": "GLSL_pack_packer.tox",
+            "path": "\\GLSL_pack_packer.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.11",
+            "name": "glsl_solarize.tox",
+            "path": "\\glsl_solarize.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.12",
+            "name": "glsl_transitions.tox",
+            "path": "\\glsl_transitions.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.13",
+            "name": "glsl_tv_static.tox",
+            "path": "\\glsl_tv_static.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.14",
+            "name": "instancing_noise_grid.tox",
+            "path": "\\instancing_noise_grid.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.15",
+            "name": "launch_control.tox",
+            "path": "\\launch_control.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.16",
+            "name": "melt.tox",
+            "path": "\\melt.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.17",
+            "name": "paletteData.json",
+            "path": "\\paletteData.json",
+            "type": "file"
+        },
+        {
+            "id": "2.18",
+            "name": "random_walk_lfo.tox",
+            "path": "\\random_walk_lfo.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.19",
+            "name": "rect_packer.tox",
+            "path": "\\rect_packer.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.20",
+            "name": "reflection.tox",
+            "path": "\\reflection.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.21",
+            "name": "scatter_images.tox",
+            "path": "\\scatter_images.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.22",
+            "name": "screen_pos_generator_rect_pack.tox",
+            "path": "\\screen_pos_generator_rect_pack.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.23",
+            "name": "scrolling_text.tox",
+            "path": "\\scrolling_text.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.24",
+            "name": "shuffle_folder.tox",
+            "path": "\\shuffle_folder.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.25",
+            "name": "simple_chroma_key.tox",
+            "path": "\\simple_chroma_key.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.26",
+            "name": "simple_feedback.tox",
+            "path": "\\simple_feedback.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.27",
+            "name": "word_teleprompt.tox",
+            "path": "\\word_teleprompt.tox",
+            "type": "file"
+        }
+    ],
+    "id": "2",
+    "localRoot": "app.userPaletteFolder",
+    "name": "My Components",
+    "palette": "My Components",
+    "path": "app.userPaletteFolder",
+    "type": "directory"
+}
